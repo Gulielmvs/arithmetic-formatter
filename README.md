@@ -2,7 +2,7 @@
 
 A program that takes a list of arithmetic problems and arranges them vertically, with optional answer display.
 
-## Technologies
+### Technologies
 - Python
 
 ---
